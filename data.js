@@ -34,6 +34,12 @@ var APP_DATA = {
           "pitch": 0.004374340922820963,
           "rotation": 0,
           "target": "14-ulaz"
+        },
+        {
+          "yaw": -1.2269849602232448,
+          "pitch": 0.035781447980614445,
+          "rotation": 0,
+          "target": "3-vanjsko4"
         }
       ],
       "infoHotspots": []
@@ -84,6 +90,12 @@ var APP_DATA = {
           "pitch": 0.08317277792402855,
           "rotation": 5.497787143782138,
           "target": "3-vanjsko4"
+        },
+        {
+          "yaw": 1.0608135128658454,
+          "pitch": 0.14858376426784758,
+          "rotation": 0,
+          "target": "2-vanjsko3"
         }
       ],
       "infoHotspots": []
@@ -278,6 +290,12 @@ var APP_DATA = {
           "pitch": 0.09659271904191513,
           "rotation": 0,
           "target": "1-vanjsko2"
+        },
+        {
+          "yaw": -3.090681155399988,
+          "pitch": 0.10251481464712242,
+          "rotation": 0,
+          "target": "16-wc"
         }
       ],
       "infoHotspots": []
@@ -776,7 +794,6 @@ var APP_DATA = {
   "name": "Kuća Drinovci",
   "settings": {
     "mouseViewMode": "drag",
-    "deviceOrientationEnabled": true,
     "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": false
