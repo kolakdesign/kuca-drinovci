@@ -29,6 +29,8 @@
   var sceneListToggleElement = document.querySelector('#sceneListToggle');
   var autorotateToggleElement = document.querySelector('#autorotateToggle');
   var fullscreenToggleElement = document.querySelector('#fullscreenToggle');
+  var deviceOrientationToggleElement = document.querySelector('#deviceOrientationToggle');
+  var deviceOrientationControlMethod = new DeviceOrientationControlMethod();
 
   // Detect desktop or mobile mode.
   if (window.matchMedia) {

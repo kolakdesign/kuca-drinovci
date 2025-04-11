@@ -776,6 +776,7 @@ var APP_DATA = {
   "name": "Kuća Drinovci",
   "settings": {
     "mouseViewMode": "drag",
+    "deviceOrientationEnabled": true,
     "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": false
